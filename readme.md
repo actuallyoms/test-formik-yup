@@ -9,3 +9,4 @@ watch some vidoes on YouTube.
 # local devolepment
 
 1-open .ide
+2- masterly added.
