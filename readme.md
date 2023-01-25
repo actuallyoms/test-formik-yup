@@ -11,3 +11,6 @@ watch some vidoes on YouTube.
 1-open .ide
 2- masterly added.
 3- ok this has been added by newone branch !
+
+
+4- very important note
